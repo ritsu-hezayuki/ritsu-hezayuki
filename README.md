@@ -2,8 +2,12 @@
 <br/>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsu-hezayuki&show_icons=true&locale=en&layout=compact" alt="ritsu-hezayuki" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritsu-hezayuki&" alt="ritsu-hezayuki" />
+  <img width="40%" height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ritsu-hezayuki&" alt="ritsu-hezayuki" />
+  <img width="40%" height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritsu-hezayuki&show_icons=true&include_all_commits=true&count_private=true"/>
+  <br/>
+</p>
+<p align="center">
+  <img width="40%" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsu-hezayuki&show_icons=true&locale=en&layout=compact" alt="ritsu-hezayuki" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
