@@ -9,7 +9,7 @@
   <img width="40%" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsu-hezayuki&show_icons=true&locale=en&layout=compact" alt="ritsu-hezayuki" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/ritsu-hezayuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsu-hezayuki" height="30" width="40" /></a>
